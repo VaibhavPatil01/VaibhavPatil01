@@ -12,7 +12,7 @@
 ## 🌐 Connect with me:
 
 <p align="left" style="display:flex;gap: 1rem">
-  <a href="linkedin.com/in/vaibhav-patil-3292aa303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VaibhavPatil01" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vaibhav-patil-3292aa303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VaibhavPatil01" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/VaibhavPatil01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="VaibhavPatil01" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/vaibhavpatil01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="VaibhavPatil01" height="30" width="40" /></a>
 </p>
