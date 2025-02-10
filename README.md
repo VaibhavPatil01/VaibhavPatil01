@@ -29,10 +29,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,tailwind,&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Software and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vite,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,vscode,&theme=dark)](https://skillicons.dev)
