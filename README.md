@@ -27,7 +27,7 @@
 
 <h3 align="left">Technologies</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,redux,&theme=dark)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,tailwind,&theme=dark)](https://skillicons.dev)
 
