@@ -35,4 +35,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vite,vscode,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,vscode,postman,&theme=dark)](https://skillicons.dev)
