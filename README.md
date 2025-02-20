@@ -33,6 +33,6 @@
 
 <h3 align="left">Software and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,netlify,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vite,vscode,postman,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,vscode,postman,vercel,&theme=dark)](https://skillicons.dev)
