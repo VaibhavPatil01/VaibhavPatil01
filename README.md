@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **vaibhavvpatil132@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://vaibhav-portfolio-navy.vercel.app/](https://vaibhav-portfolio-navy.vercel.app/)
+
 ## 🌐 Connect with me:
 
 <p align="left" style="display:flex;gap: 1rem">
