@@ -3,9 +3,9 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently learning **React**
+- 🔭 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **React, JavaScript, C++, DSA**
+- 💬 Ask me about **React, JavaScript, C++, DSA, Frontend Development**
 
 - 📫 How to reach me **vaibhavvpatil132@gmail.com**
 
