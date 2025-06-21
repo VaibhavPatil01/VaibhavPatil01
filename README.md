@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
-<h3 align="center">A passionate Software Engineer, and Experience in Web Development</h3>
+<h3 align="center">A passionate Software Engineer, and Experienced in Web Development</h3>
 
 ## 💫 About Me:
 
