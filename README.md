@@ -3,9 +3,9 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently learning **Backend Development**
+- 🔭 Building **AI-powered full-stack applications** focused on thoughtful user experiences
 
-- 💬 Ask me about **React, JavaScript, C++, DSA, Frontend Development**
+- 💬 Ask me about **C++, DSA, MERN Stack Development**
 
 - 📫 How to reach me **vaibhavvpatil132@gmail.com**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp&theme=dark)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 
@@ -32,7 +32,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,redux,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,tailwind,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,tailwind,next,&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Software and Tools</h3>
 
