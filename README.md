@@ -20,7 +20,7 @@
   <a href="https://www.hackerrank.com/profile/vaibhavvpatil132" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" alt="Hackerrank" height="50" width="60" /></a>
 </p>
 
-## 🖥️Tech Stack: 
+## 🖥️Tech Stack:
 
 <h3 align="left">Languages</h3>
 
