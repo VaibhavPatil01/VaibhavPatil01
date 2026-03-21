@@ -26,16 +26,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cpp&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,dart&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Technologies</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,redux,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,redux,mongodb,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,tailwind,next,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,mysql,tailwind,next,&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Software and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,netlify,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,bootstrap,netlify,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vite,vscode,postman,vercel,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,androidstudio,postman,vercel,&theme=dark)](https://skillicons.dev)
