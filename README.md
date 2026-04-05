@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
-<h3 align="center">A passionate Software Engineer, and Experienced in Web Development</h3>
+<h3 align="center">Passionate Software Engineer turning ideas into scalable web applications.</h3>
 
 ## 💫 About Me:
 
@@ -36,6 +36,6 @@
 
 <h3 align="left">Software and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,bootstrap,netlify,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma,postman,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vite,androidstudio,postman,vercel,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,vite,androidstudio,netlify,vercel,&theme=dark)](https://skillicons.dev)
