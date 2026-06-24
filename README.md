@@ -11,7 +11,7 @@
 
 - All of my projects are available at [https://vaibhav-portfolio-navy.vercel.app/](https://vaibhav-portfolio-navy.vercel.app/)
 
-## Connect with me:
+## Connect with me: 
 
 <p align="left" style="display:flex;gap: 2rem">
   <a href="https://linkedin.com/in/vaibhav-patil-3292aa303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VaibhavPatil01" height="30"  /></a>&nbsp;&nbsp;&nbsp;
