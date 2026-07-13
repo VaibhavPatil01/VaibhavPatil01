@@ -20,15 +20,12 @@
   <a href="https://www.hackerrank.com/profile/vaibhavvpatil132" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" alt="Hackerrank" height="50"  /></a>
 </p>
 
-## Tech Stack:
+## Tech Stack: 
 
 <h3 align="left">Languages</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cpp&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,dart&theme=dark)](https://skillicons.dev)
-
-<h3 align="left">Technologies</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,redux,mongodb,&theme=dark)](https://skillicons.dev)
 
