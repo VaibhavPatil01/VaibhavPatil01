@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
+hu<h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
 <h3 align="center">Passionate Software Engineer turning ideas into scalable web applications.</h3>
 
 ## About Me:
@@ -20,7 +20,7 @@
   <a href="https://www.hackerrank.com/profile/vaibhavvpatil132" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" alt="Hackerrank" height="50"  /></a>
 </p>
 
-## Tech Stack: 
+## Tech Stack:
 
 <h3 align="left">Languages</h3>
 
