@@ -1,4 +1,4 @@
-hu<h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
 <h3 align="center">Passionate Software Engineer turning ideas into scalable web applications.</h3>
 
 ## About Me:
