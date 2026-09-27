@@ -32,7 +32,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,redux,mongodb,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,mysql,tailwind,next,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,mysql,tailwind,next,redis,&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Software and Tools</h3>
 
